@@ -1,6 +1,6 @@
 <h1>ExpNo 1 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: Shafeeq Ahamed</h3>
-<h3>Register Number: 212221230092</h3>
+<h3>Name: Sanjay Kumar S S</h3>
+<h3>Register Number: 212221240048</h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -127,4 +127,3 @@ F H <BR>
 ![image](https://github.com/ShafeeqAhamedS/Fundamentalsof_AI/assets/93427237/74ccb38e-e8b2-4730-bec7-798270b21eb2)
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
-
